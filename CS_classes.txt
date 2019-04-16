@@ -1,0 +1,27 @@
+COMSC-100, A, 3, //Fall '12
+COMSC-110, A, 4, //Spring '17
+COMSC-171, C, 2,
+COMSC-255, B, 3,
+CS-37, B, 3, //Fall '17
+CS-41, W, 0,
+CS-40A, C, 3,
+CPSC-131, A, 3, //Spring '18
+CPSC-332, A, 3, //Summer '18
+CPSC-223, A, 3, //Fall '18
+CPSC-240, B+, 3,
+CPSC-254, B, 3,
+CPSC-311, B, 3,
+CPSC-315, X, 0, //Spring '19
+CPSC-323, X, 0,
+CPSC-335, X, 0,
+CPSC-351, X, 0,
+CPSC-440, X, 0,
+CPSC-353, X, 0, //Summer '19
+CPSC-362, X, 0,
+CPSC-471, X, 0,
+CPSC-481, X, 0,
+ANTH-304, X, 0,
+CPSC-454, X, 0, //Fall '19
+CPSC-462, X, 0,
+CPSC-463, X, 0,
+CPSC-464, X, 0,
