@@ -1,0 +1,54 @@
+COMSC-100, A, 3, //Fall '12
+HIST-120, F, 0,
+PE-182, W, 0,
+FIRE-101, C, 3, 
+MCOM-100, A, 3, //Spring '15
+HIST-170, B, 3, //Summer '15
+BIOL-101, A, 3, //Fall '15
+BIOL-101L, A, 1,
+PSYC-101, B, 3,
+ENGL-101, B, 3, //Summer '16
+GEOL-101, B, 3,
+GEOL-101L, A, 1,
+ENGL-102, A, 3, //Fall '16
+ART-201, A, 3,
+HIST-110, B, 3,
+POSC-100, A, 3,
+COMSC-110, A, 4, //Spring '17
+COMM-120, A, 3,
+MATH-120, A, 3,
+COMSC-171, C, 2,
+COMSC-255, B, 3,
+MATH-125, B, 5, //Summer '17
+CS-37, B, 3, //Fall '17
+CS-41, W, 0,
+CS-40A, C, 3,
+MATH-150, B, 5,
+MATH-151, A, 5,
+CPSC-131, A, 3, //Spring '18
+EGCP-401, A-, 3,
+MATH-270A, C, 3,
+MATH-338, B+, 4,
+GEOL-201, B, 3,
+GEOL-201L, D, 1,
+SPAN-101, A, 5,
+CPSC-332, A, 3, //Summer '18
+CPSC-223, A, 3, //Fall '18
+CPSC-240, B+, 3,
+CPSC-254, B, 3,
+CPSC-311, B, 3,
+MATH-270B, C, 3,
+CPSC-315, X, 0, //Spring '19
+CPSC-323, X, 0,
+CPSC-335, X, 0,
+CPSC-351, X, 0,
+CPSC-440, X, 0,
+CPSC-353, X, 0, //Summer '19
+CPSC-362, X, 0,
+CPSC-471, X, 0,
+CPSC-481, X, 0,
+ANTH-304, X, 0,
+CPSC-454, X, 0, //Fall '19
+CPSC-462, X, 0,
+CPSC-463, X, 0,
+CPSC-464, X, 0,
