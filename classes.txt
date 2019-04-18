@@ -14,6 +14,7 @@ ENGL-102, A, 3, //Fall '16
 ART-201, A, 3,
 HIST-110, B, 3,
 POSC-100, A, 3,
+MATH-150, A, 4,
 COMSC-110, A, 4, //Spring '17
 COMM-120, A, 3,
 MATH-120, A, 3,
