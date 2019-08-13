@@ -31,7 +31,7 @@ EGCP-401, A-, 3,
 MATH-270A, C, 3,
 MATH-338, B+, 4,
 GEOL-201, B, 3,
-GEOL-201L, D, 1,
+GEOL-201L, D, 0,
 SPAN-101, A, 5,
 CPSC-332, A, 3, //Summer '18
 CPSC-223, A, 3, //Fall '18
@@ -44,6 +44,7 @@ CPSC-323, A-, 0,
 CPSC-335, B, 0,
 CPSC-351, A-, 0,
 CPSC-440, A-, 0,
+GEOL-201L, B, 1,
 CPSC-353, A, 0, //Summer '19
 CPSC-362, A, 0,
 CPSC-471, B, 0,
