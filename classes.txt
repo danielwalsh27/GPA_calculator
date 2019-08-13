@@ -39,16 +39,16 @@ CPSC-240, B+, 3,
 CPSC-254, B, 3,
 CPSC-311, B, 3,
 MATH-270B, C, 3,
-CPSC-315, X, 0, //Spring '19
-CPSC-323, X, 0,
-CPSC-335, X, 0,
-CPSC-351, X, 0,
-CPSC-440, X, 0,
-CPSC-353, X, 0, //Summer '19
-CPSC-362, X, 0,
-CPSC-471, X, 0,
-CPSC-481, X, 0,
-ANTH-304, X, 0,
+CPSC-315, A, 0, //Spring '19
+CPSC-323, A-, 0,
+CPSC-335, B, 0,
+CPSC-351, A-, 0,
+CPSC-440, A-, 0,
+CPSC-353, A, 0, //Summer '19
+CPSC-362, A, 0,
+CPSC-471, B, 0,
+CPSC-481, A, 0,
+ANTH-304, B, 0,
 CPSC-454, X, 0, //Fall '19
 CPSC-462, X, 0,
 CPSC-463, X, 0,
