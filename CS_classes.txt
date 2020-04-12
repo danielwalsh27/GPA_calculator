@@ -24,3 +24,8 @@ CPSC-485, B+, 3, //Fall '19
 CPSC-462, B+, 3,
 CPSC-463, B, 3,
 CPSC-464, B, 3,
+CPSC-466, X, 0, //Spring '20
+CPSC-541, X, 0,
+CPSC-545, X, 0,
+CPSC-585, X, 0,
+CPSC-589, X, 0, 
