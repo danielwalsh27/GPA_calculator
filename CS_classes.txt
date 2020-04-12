@@ -20,7 +20,7 @@ CPSC-353, A, 3, //Summer '19
 CPSC-362, A, 3,
 CPSC-471, B, 3,
 CPSC-481, A, 3,
-CPSC-454, X, 0, //Fall '19
-CPSC-462, X, 0,
-CPSC-463, X, 0,
-CPSC-464, X, 0,
+CPSC-485, B+, 3, //Fall '19
+CPSC-462, B+, 3,
+CPSC-463, B, 3,
+CPSC-464, B, 3,
